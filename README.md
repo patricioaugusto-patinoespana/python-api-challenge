@@ -70,5 +70,5 @@ The name of the nearest hotel is stored in the Hotel Name column of the DataFram
 - Display Hotel Info on the Map:
 The hotel name and country are included in the hover message for each city on the interactive map.
 
-# Conclusion
+## Conclusion
 VacationPy provides an interactive and visually engaging way to explore potential vacation destinations based on specific weather preferences. By leveraging Python's data analysis and visualization tools, as well as the Geoapify API for finding nearby hotels, the project not only identifies ideal vacation spots but also offers practical insights for travel planning. Whether you're searching for a sunny getaway or a cool escape, VacationPy makes the process intuitive and efficient. This project demonstrates how weather data and mapping technologies can be combined to create useful, real-world applications for travel enthusiasts.
